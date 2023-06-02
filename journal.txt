@@ -1,5 +1,10 @@
+@Future exercises
+>20230603: try codewars/HumanReadable time again:)
+
 @Lessons (general)
 1) Please read code before running, to avoid silly errors like defense of consolas column number being wrong due to copy-pasting
+
+
 
 20230602
 13:59 The Dominion of Kings (Player's Guide) 14:02 // playersguide/dominionofkings
@@ -17,6 +22,22 @@
 14:46 CodeWars: look for nice exercise. Let's try JavaScript!
 14:48 Found one to try; 6th Kyu, not done yet, ranked on popularity
 https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript
-14:54 done! (after testing and such)
-   check, commit and count lines: 
+14:54 done! (after testing and such) // src\main\javascript\codewars\multiplesof3and5.js
+   check, commit and count lines: 3 lines, so 0.5 lines/minute.
+   I guess part of this is my relatively low familiarity with JavaScript, and that I had to look up how to make
+   JavaScript ranges  [...Array(number)].map((_,i) => i) .. It WORKS, but I prefer Kotlin's
+   fun multiplesOf3And5(number: Int) = (0..number).filter { it % 3 == 0 || it % 5 == 0 }.sum()
+   over
+   function solution(number) {
+     return number > 0 ? [...Array(number)].map((_,i) => i).filter(i => i % 3 == 0 || i % 5 == 0).reduce((a, b) => a + b) : 0;
+   }
+   for some odd reason. No matter, I got a bit of JavaScript practice (and updated my file structure to host JS files too!).
+   Now get JAVA practice with CodeWars
+15:00 short break! 02
+15:02 Now Java with Codewars. Perhaps a bit more challenging than 6tyh Kyu 15:10. Tested.
+    Wrote 5 lines of code. No great productivity, but I had to look up how to zero-pad Strings in Java, so overall not bad,.
+    I looked at the solutions, and while some seemed less easy to maintain, one stood out as a great idea: using Duration!
+    I'll make a version of that! Or at least, best to do it tomorrow to see if I remember...
+
+
 
