@@ -52,9 +52,15 @@ https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript
     Good grief! I can see why many participants are not that enthusiastic about Exercism. You need a whole bag of tricks
     like regex replacements, stack overflow skills, Character methods, StringBuilder... and then discounting that
     the assignment has internal contradictions ("you must remove non-letters" - "oh, well, I meant non-letters except
-    for the undescore, which was the space". And that mess ONLY to learn people to work with chars?
-    Check, Commit & Count: 
-
+    for the underscore, which was the space". And that mess ONLY to learn people to work with chars? Which should be
+    nice for BEGINNERS
+    Check, Commit & Count: Checked, committed, 36 lines of code in about 33 min; so bit more than 1 line/min
+    Looked at the other solutions. Some really weird (and smart) usually hard-to-understand solutions; really not
+    enterprise-ready code, but then I guess this is far from a standard enterprise problem.
+17:18 To close off, let's do an exercise that I have thought of myself!
+    18:10 There is at least one bug in the code. 5 minutes, then break! 18:12 DINNER
+    18:36 Try the Pseudocode Programming Process? 18:50. Well, took some time to analyze, but it now works!
+    Check, Commit & Count
 
 
 
