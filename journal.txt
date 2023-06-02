@@ -13,4 +13,10 @@
 14:34 small break! Also got the idea to make a utility method for the "Please enter the number of widgets: " => int 36
 14:36 Create a utility method to ask for a number - 14:42 // utils/AskFor
     I also made a method to ask for Strings and updated two of the other programs to test it. Looks nice!
-    check, commit and count lines
+    check, commit and count lines: done, 11 lines... about 1.5 line/minute
+14:46 CodeWars: look for nice exercise. Let's try JavaScript!
+14:48 Found one to try; 6th Kyu, not done yet, ranked on popularity
+https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript
+14:54 done! (after testing and such)
+   check, commit and count lines: 
+
