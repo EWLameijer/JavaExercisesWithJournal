@@ -60,7 +60,12 @@ https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript
 17:18 To close off, let's do an exercise that I have thought of myself!
     18:10 There is at least one bug in the code. 5 minutes, then break! 18:12 DINNER
     18:36 Try the Pseudocode Programming Process? 18:50. Well, took some time to analyze, but it now works!
-    Check, Commit & Count
+    Check, Commit & Count 48 lines; 52+14=66 min is about 0.7 lines per minute, which is okay. Definitely, given the
+    need for pseudocode, this is still somewhat in my own growth zone! 19:05
+
+DAY-summary: In total about 212 minutes programming. This is less than the 240 minutes minimum I'd ask of people who
+are learning Java, but then, I also have other tasks (like preparing worked examples). May this example help other
+people who try to improve their programming!
 
 
 
