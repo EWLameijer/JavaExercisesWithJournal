@@ -35,9 +35,26 @@ https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript
    Now get JAVA practice with CodeWars
 15:00 short break! 02
 15:02 Now Java with Codewars. Perhaps a bit more challenging than 6tyh Kyu 15:10. Tested.
-    Wrote 5 lines of code. No great productivity, but I had to look up how to zero-pad Strings in Java, so overall not bad,.
+    Wrote 5 lines of code. No great productivity, (like 0.6 lines/minute) but I had to look up how to zero-pad Strings
+    in Java, so overall not bad,.
     I looked at the solutions, and while some seemed less easy to maintain, one stood out as a great idea: using Duration!
     I'll make a version of that! Or at least, best to do it tomorrow to see if I remember...
+15:16 Let's try Kattis (another free exercise site). Lots of problems and lots of browsing to find one that is neither too easy
+   nor requiring higher maths (don't want to take time for that today). Wound up with https://open.kattis.com/problems/gandalfsspell
+   ... 15:33 Taking a break; I should probably read Kattis' instructions -> 16:03 RESUME .. 16:20
+   Check, Commit & Count:
+   I don't like the "True" and "False" literals, which are rather more cumbersome in Java or basically any production programming
+   language except for Python, so I adjust it a little. Code still works.
+   32 lines of code, 17+17 minutes, say about 0.5 line/minute, though likely I was a bit handicapped by me needing to
+   get familiar with how Kattis works.
+16:34 And Exercism (another free site, with worked-out examples)
+    16:36 https://exercism.org/tracks/java/concepts/chars ... 17:03
+    Good grief! I can see why many participants are not that enthusiastic about Exercism. You need a whole bag of tricks
+    like regex replacements, stack overflow skills, Character methods, StringBuilder... and then discounting that
+    the assignment has internal contradictions ("you must remove non-letters" - "oh, well, I meant non-letters except
+    for the undescore, which was the space". And that mess ONLY to learn people to work with chars?
+    Check, Commit & Count: 
+
 
 
 
