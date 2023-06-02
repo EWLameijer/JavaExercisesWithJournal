@@ -1,2 +1,9 @@
-20230602 13:59 The Dominion of Kings (Player's Guide) 14:02
-    3 minutes (including test). Measurement, checking + committing code
+@Lessons (general)
+1) Please read code before running, to avoid silly errors like defense of consolas column number being wrong due to copy-pasting
+
+20230602
+13:59 The Dominion of Kings (Player's Guide) 14:02 // playersguide/dominionofkings
+    3 minutes (including test). Measurement, checking + committing code; JLoc counts 13 lines, so about 4 lines/min ... 14:07
+14:07 BREAK (drink and such) 14:10
+14:10 The Defense of Consolas (Player's Guide) 14:15
+    5 minutes (including test)
