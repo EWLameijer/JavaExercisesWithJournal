@@ -13,13 +13,13 @@ here, so Integer (the wrapper class of int,
    as int is a primitive and therefore cannot have any methods) may be of use :)
  */
 
+import utils.AskFor;
+
 import java.util.Scanner;
 
 public class HexadecimalToOctal {
     public static void main(String[] args) {
-        System.out.print("Input a hexadecimal number: ");
-        Scanner in = new Scanner(System.in);
-        String hexadecimalNumber = in.next();
+        String hexadecimalNumber = AskFor.string("Input a hexadecimal number: ");
         int number = Integer.parseInt(hexadecimalNumber, 16);
         System.out.print("Equivalent octal number: " + Integer.toOctalString(number));
     }

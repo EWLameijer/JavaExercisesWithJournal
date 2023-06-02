@@ -1,5 +1,7 @@
 package playersguide.dominionofkings;
 
+import utils.AskFor;
+
 import java.util.Scanner;
 
 /*
@@ -18,13 +20,9 @@ Display the point total to the user.
  */
 public class TheDominionOfKings {
     public static void main(String[] args) {
-        System.out.print("Please enter the number of provinces you have: ");
-        Scanner in = new Scanner(System.in);
-        int provinces = in.nextInt();
-        System.out.print("Please enter the number of duchies you have: ");
-        int duchies = in.nextInt();
-        System.out.print("Please enter the number of estates you have: ");
-        int estates = in.nextInt();
+        int provinces = AskFor.integer("Please enter the number of provinces you have: ");
+        int duchies =  AskFor.integer("Please enter the number of duchies you have: ");
+        int estates = AskFor.integer("Please enter the number of estates you have: ");
         int totalPoints = 6 * provinces + 3 * duchies + estates;
         System.out.println("You have " + totalPoints + " points in total.");
     }

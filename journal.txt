@@ -5,8 +5,12 @@
 13:59 The Dominion of Kings (Player's Guide) 14:02 // playersguide/dominionofkings
     3 minutes (including test). Measurement, checking + committing code; JLoc counts 13 lines, so about 4 lines/min ... 14:07
 14:07 BREAK (drink and such) 14:10
-14:10 The Defense of Consolas (Player's Guide) 14:15
+14:10 The Defense of Consolas (Player's Guide) 14:15 // playersguide/defenseofconsolas
     5 minutes (including test) Though did spend about 10 minutes longer because there is a more elegant algorithm to avoid
     juggling with the +1/-1s .. so until 14:26, 24 code lines, so about 1 line/minute
-14:27 SmallExercises: hexadecimalToOctal 14:31 = 4 minutes
-    check, commit, and count lines:
+14:27 SmallExercises: hexadecimalToOctal 14:31 = 4 minutes // smallexercises/hexadecimaltooctal
+    check, commit, and count lines: committed, 10 lines, about 2.5 lines/minute
+14:34 small break! Also got the idea to make a utility method for the "Please enter the number of widgets: " => int 36
+14:36 Create a utility method to ask for a number - 14:42 // utils/AskFor
+    I also made a method to ask for Strings and updated two of the other programs to test it. Looks nice!
+    check, commit and count lines
