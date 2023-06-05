@@ -63,9 +63,8 @@ https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript
     Check, Commit & Count 48 lines; 52+14=66 min is about 0.7 lines per minute, which is okay. Definitely, given the
     need for pseudocode, this is still somewhat in my own growth zone! 19:05
 
-DAY-summary: In total about 212 minutes programming. This is less than the 240 minutes minimum I'd ask of people who
-are learning Java, but then, I also have other tasks (like preparing worked examples). May this example help other
-people who try to improve their programming!
+DAY-summary: In total about 243 minutes programming. This is about the 240 minutes daily minimum I'd ask of people who
+are learning Java. May this example help other people who try to improve their programming!
 
 
 
